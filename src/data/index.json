@@ -24,5 +24,28 @@
             "title": "Webflow Development",
             "description": "Hellow. hi by eyes"
         }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Hire",
+            "description": "Hellow. hi by eyes",
+            "link": "View In Github"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "App dev",
+            "description": "Hellow. hi by eyes",
+            "link": "View In Github"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Easy return",
+            "description": "Hellow. hi by eyes",
+            "link": "View In Github"
+        }
     ]
 }

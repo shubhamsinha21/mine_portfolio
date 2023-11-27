@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function HeroSection() {
     return (
-        <setion id='herosection' className='hero-section'>
+        <section id='herosection' className='hero-section'>
 
             {/* Content about HeroSection */}
             <div className="hero-section-content-box">
@@ -26,6 +26,6 @@ export default function HeroSection() {
             <div className="hero-section-image">
                 <img src="./img/hero_img.png" alt="Hero section" />
             </div>
-        </setion>
+        </section>
     )
 }

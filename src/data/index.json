@@ -1,0 +1,28 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-end",
+            "description": "Hellow. hi by eyes"
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-end",
+            "description": "Hellow. hi by eyes"
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI/UX",
+            "description": "Hellow. hi by eyes"
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Webflow Development",
+            "description": "Hellow. hi by eyes"
+        }
+    ]
+}

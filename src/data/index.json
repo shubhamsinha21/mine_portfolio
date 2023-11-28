@@ -47,5 +47,31 @@
             "description": "Hellow. hi by eyes",
             "link": "View In Github"
         }
+    ],
+    "testimonials": [
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "Hellow. hi by eyes",
+            "author_name": "Shubham",
+            "author_description": "DStartb"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "Hellow. hi by eyes",
+            "author_name": "Shubman",
+            "author_description": "yahoo"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "Hellow. hi by eyes",
+            "author_name": "Rohut",
+            "author_description": "Zeecheck"
+        }
     ]
 }

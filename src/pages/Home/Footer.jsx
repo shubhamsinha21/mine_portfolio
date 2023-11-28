@@ -31,7 +31,7 @@ export default function Footer() {
                                 smooth={true}
                                 offset={-70}
                                 duration={500}
-                                to='MyPortfolio'
+                                to='myPortfolio'
                                 className='text-md'
                             >
                                 Portfolio
@@ -45,7 +45,7 @@ export default function Footer() {
                                 smooth={true}
                                 offset={-70}
                                 duration={500}
-                                to='AboutMe'
+                                to='aboutMe'
                                 className='text-md'
                             >
                                 About Me
@@ -59,7 +59,7 @@ export default function Footer() {
                                 smooth={true}
                                 offset={-70}
                                 duration={500}
-                                to='Contact'
+                                to='contactMe'
                                 className='text-md'
                             >
                                 Contact Me
@@ -72,7 +72,7 @@ export default function Footer() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to='testimonials'
+                            to='testimonial'
                             className='text-md'
                         >
                             Testimonials

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function HeroSection() {
     return (
-        <section id='herosection' className='hero-section'>
+        <section id='heroSection' className='hero-section'>
 
             {/* Content about HeroSection */}
             <div className="hero-section-content-box">

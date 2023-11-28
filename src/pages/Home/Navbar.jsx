@@ -39,11 +39,11 @@ export default function Navbar() {
             <div>
                 <img src='./img/logo.svg' alt='logo' />
             </div>
-            <a className={`nav_hamburger ${navActive ? 'active' : ''}`}
+            <a className={`nav-hamburger ${navActive ? 'active' : ''}`}
                 onClick={toggleNav}>
-                <span className='nav_hamburger_line'></span>
-                <span className='nav_hamburger_line'></span>
-                <span className='nav_hamburger_line'></span>
+                <span className='nav-hamburger-line'></span>
+                <span className='nav-hamburger-line'></span>
+                <span className='nav-hamburger-line'></span>
             </a>
 
             <div className={`navbar-items ${navActive ? 'active' : ''}`}>
@@ -68,7 +68,7 @@ export default function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to='MyPortfolio'
+                            to='myPortfolio'
                             className='navbar-content'
                         >
                             Portfolio
@@ -81,7 +81,7 @@ export default function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to='AboutMe'
+                            to='aboutMe'
                             className='navbar-content'
                         >
                             AboutMe
@@ -94,7 +94,7 @@ export default function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={500}
-                            to='Testimonials'
+                            to='testimonial'
                             className='navbar-content'
                         >
                             Testimonials
@@ -110,7 +110,7 @@ export default function Navbar() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to='ContactMe'
+                to='contactMe'
                 className='btn btn-outline-primary'
             >
                 Contact Me

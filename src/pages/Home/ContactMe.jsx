@@ -1,6 +1,6 @@
 export default function ContactMe() {
     return (
-        <section id='Contact' className='contact-section'>
+        <section id='contactMe' className='contact-section'>
             <div>
                 <p className='sub-title'>
                     Get In Touch
